@@ -1,12 +1,12 @@
 ---
-title: Martin Marino
+title: Minarto
 date: 2017-11-14 11:08:34 +0000
 role:
 - advisor
 - board
 sub_heading: Agen Jakarta
 thumbnail: "/uploads/2017/11/14/joseph-gonzalez-399972.jpg"
-email: martin@belkirkcollege.com
+email: minarto@car-3i-network.com
 linkedin: ''
 layout: person
 
