@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/2018/02/17/college-building.jpg"
+banner_image: "/uploads/2018/09/27/3i-network.png"
 heading: Tentang CAR 3i Network
 sub_heading: Ora et Labora
 layout: landing-page
@@ -17,6 +17,7 @@ textline: |-
   Untuk penjelasan lebih lanjut silahkan hubungi agen kami.
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
+show_news: true
 menu:
   footer:
     identifier: _about
