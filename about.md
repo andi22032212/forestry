@@ -3,7 +3,7 @@ title: About
 date: 2017-11-01 03:00:00 +0000
 banner_image: "/uploads/2018/09/27/3i-network.png"
 heading: Tentang CAR 3i Network
-sub_heading: Ora et Labora
+sub_heading: Insurance Investment Income
 layout: landing-page
 textline: |-
   3i-Networks adalah suatu sistem pemasaran asuransi jiwa melalui  jaringan keagenan, dimana 3i-Networks bertujuan untuk mengajak pemegang  polis untuk memiliki perlindungan (proteksi), Investasi (Unit Link) dan  juga penghasilan sebagai Agen Asuransi Jiwa (mengikuti peraturan  keagenan yang berlaku).
