@@ -4,15 +4,13 @@ date: 2017-11-14 11:08:34 +0000
 role:
 - advisor
 - board
-sub_heading: Advisor
+sub_heading: Agen Jakarta
 thumbnail: "/uploads/2017/11/14/joseph-gonzalez-399972.jpg"
 email: martin@belkirkcollege.com
 linkedin: ''
-layout: 'person'
+layout: person
+
 ---
-
-Martin Marino joined Belkirk in 2016 as an advisor and member of the Board.
-
-Martin has his master's degree in Finance and has started three successful engineering-related ventures since 2012, and currently advises the boards of United Technologies and Bechtel.
-
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+    <p style="text-align: center;">Agen Jakarta:</p>
+    <p><a href="https://api.whatsapp.com/send?phone=6285658862404&amp;text=Hi%20saya%20butuh%20informasi%203inetwork"><img class="wp-image-18 aligncenter" src="https://car-3i-network.com/wp-content/uploads/2018/09/chat-whatsapp.png" alt="" width="207" height="75" srcset="https://car-3i-network.com/wp-content/uploads/2018/09/chat-whatsapp.png 768w, https://car-3i-network.com/wp-content/uploads/2018/09/chat-whatsapp-300x109.png 300w" sizes="(max-width: 207px) 100vw, 207px" /></a></p>
+    
