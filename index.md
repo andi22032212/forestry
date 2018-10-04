@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2018/09/27/3i-network.png"
+banner_image: "/uploads/2018/10/04/car 3i network.jpg"
 layout: landing-page
 heading: CAR 3i NETWORK
 partners: []
