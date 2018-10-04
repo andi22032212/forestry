@@ -9,6 +9,11 @@ thumbnail: "/uploads/2017/11/14/joseph-gonzalez-399972.jpg"
 email: minarto@car-3i-network.com
 linkedin: ''
 layout: person
+menu:
+  footer:
+    identifier: _projects
+    weight: 1
+    title: Agen
 
 ---
     <p style="text-align: center;">Agen Jakarta:</p>
