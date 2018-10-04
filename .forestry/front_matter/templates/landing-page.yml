@@ -83,4 +83,5 @@ fields:
   hidden: true
   default: home
 pages:
+- car-3i-network.md
 - index.md
