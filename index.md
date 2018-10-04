@@ -1,9 +1,11 @@
 ---
 title: Home
-banner_image: ''
+banner_image: "/uploads/2018/10/04/car 3i network.jpg"
 layout: landing-page
 heading: CAR 3i NETWORK
 partners:
+- "/uploads/2018/10/04/mobiss.png"
+- "/uploads/2018/10/04/car.jpg"
 - "/uploads/2018/09/27/3i-network.png"
 services: []
 sub_heading: Insurance Invesment Income
@@ -12,7 +14,7 @@ textline: CAR 3i Network adalah suatu sistem pemasaran asuransi jiwa melalui jar
   (proteksi), Investasi (Unit Link) dan juga  penghasilan sebagai Agen Asuransi Jiwa
   dengan tetap mengikuti peraturan keagenan  yang berlaku di Indonesia.
 hero_button:
-  text: Learn more
+  text: Pelajari Lebih Lanjut
   href: "/about"
 show_news: true
 show_staff: true
