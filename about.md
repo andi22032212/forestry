@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/2018/09/27/3i-network.png"
+banner_image: ''
 heading: Tentang CAR 3i Network
 sub_heading: Insurance Investment Income
 layout: landing-page
