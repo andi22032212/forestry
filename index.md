@@ -1,5 +1,5 @@
 ---
-title: Home
+title: CAR 3i NETWORK
 banner_image: "/uploads/2018/10/04/car 3i network.jpg"
 layout: landing-page
 heading: CAR 3i NETWORK
