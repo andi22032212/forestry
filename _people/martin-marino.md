@@ -10,6 +10,10 @@ email: minarto@car-3i-network.com
 linkedin: ''
 layout: person
 menu:
+  navigation:
+    identifier: _projects
+    weight: 4
+    title: Agen
   footer:
     identifier: _projects
     weight: 1
