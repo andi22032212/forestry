@@ -7,23 +7,24 @@ fields:
   label: Title
   type: text
   hidden: false
-  default: ''
+  default: CAR 3i Network
   config:
     required: true
 - type: text
   label: Hero Heading
   name: heading
-  default: Belkirk College
+  default: Insurance Invesment Income
 - type: text
   name: sub_heading
   label: Hero Sub heading
-  default: Engineering and Health Sciences
+  default: Asuransi Jiwa Central Asia Raya
 - type: file
   name: banner_image
   label: Hero Image
   description: 'Dimensions: 1200px by 580px'
   config:
     maxSize: '2'
+  default: "/uploads/2018/09/27/3i-network.png"
 - type: field_group
   name: hero_button
   label: Hero Button
@@ -31,9 +32,11 @@ fields:
   - type: text
     name: text
     label: Text
+    default: Pelajari
   - type: text
     name: href
     label: Link
+    default: https://car-3i-network.com/2017-09-25-introduction/
 - type: textarea
   name: textline
   label: Description
