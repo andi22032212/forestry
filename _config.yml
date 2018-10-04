@@ -1,6 +1,6 @@
-title: Belkirk College of Engineering
-short_title: Belkirk
-description: Belkirk Demo Site for Forestry.io
+title: CAR 3i Network
+short_title: 3i Network
+description: CAR 3i Networks adalah suatu sistem pemasaran asuransi jiwa melalui jaringan keagenan, dimana 3i-Networks bertujuan untuk mengajak pemegang polis untuk memiliki perlindungan (proteksi), Investasi (Unit Link) dan juga penghasilan sebagai Agen Asuransi Jiwa (mengikuti peraturan keagenan yang berlaku).
 baseurl:
 permalink: "/:path/"
 defaults:
