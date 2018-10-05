@@ -1,6 +1,6 @@
 ---
-title: Home
-banner_image: "/uploads/2018/10/04/car 3i network.jpg"
+title: Selamat Datang
+banner_image: ''
 layout: landing-page
 heading: CAR 3i NETWORK
 partners:
