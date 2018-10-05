@@ -1,5 +1,5 @@
 ---
-title: Selamat Datang
+title: CAR 3i NETWORK
 banner_image: ''
 layout: landing-page
 heading: CAR 3i NETWORK
